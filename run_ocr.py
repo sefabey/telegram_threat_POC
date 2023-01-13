@@ -67,9 +67,9 @@ def get_ocr_results(file_path):
         # move the old file to a old_images folder
         file_path.rename(Path(parent_folder / "processed_images") / file_path.name)
 
-    # Return the list of text
+    # Return the list of text as a single string joined by a space
 
-    return text
+    return "".join(text)
 
 
 def main():

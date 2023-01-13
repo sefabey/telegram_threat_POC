@@ -4,3 +4,5 @@ images/
 *.jsonl
 *.json
 flagged/
+*.csv
+__pycache__/
