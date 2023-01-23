@@ -69,7 +69,7 @@ def get_ocr_results(file_path):
 
     # Return the list of text as a single string joined by a space
 
-    return "".join(text)
+    return " ".join(text)
 
 
 def main():
