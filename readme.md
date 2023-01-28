@@ -14,3 +14,15 @@ TODO:
 - keyword matches
 - mock model
 - displaying results
+
+next steps:
+
+- Improve the presentation and data
+- Create mock models suggesting actions. Write custom logic. 
+- detect buildings
+- detect star of david
+- detect OCR in hebrew
+- iterate on phrases
+- hate symbols
+- videos ocred
+- flashpoint
